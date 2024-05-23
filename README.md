@@ -1,3 +1,8 @@
+
+Bu sistemde 3 farklı sekme vardır . son sekmede alanları doldurarak üye ekleyebilir , İkinci sekmede kitap ekleyebilir ,Ve son sekmede ise arattığımız kitabı ödünç alabilir veya durumunu görebilir.
+
+
+
 ![image](https://github.com/alican133/Kutuphane-Yonetim-Sistemi/assets/169036709/7d1c5617-ee4f-4277-8b7d-b6c87c1a14b0)
 
 
